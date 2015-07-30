@@ -12,7 +12,7 @@
 
         />
 
-    <TextView android:text="Happy Birthday, Svetik!" android:layout_width="wrap_content"
+    <TextView android:text="Happy Birthday, Serge!" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
